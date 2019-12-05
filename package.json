@@ -1,0 +1,25 @@
+{
+  "name": "@neojp/tailwindcss-aspect-ratio-utilities",
+  "description": "Tailwind CSS aspect ratio utilities",
+  "version": "1.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Joan Piedra <joan@joanpiedra.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neojp/tailwindcss-aspect-ratio-utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neojp/tailwindcss-aspect-ratio-utilities/issues"
+  },
+  "homepage": "https://github.com/neojp/tailwindcss-aspect-ratio-utilities#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwindcss-plugin",
+    "tailwindcss-utilities",
+    "tailwindcss-utility"
+  ]
+}
